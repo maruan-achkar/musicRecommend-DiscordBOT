@@ -1,0 +1,6 @@
+{
+    "token":"BOT TOKEN",
+    "clientId": "BOT CLIENT ID",
+	"guildId": "SERVERS ID (this bot is server-restricted",
+    "creator": "BOT CREATOR NAME"
+}
